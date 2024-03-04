@@ -1,2 +1,3 @@
-# firstRepo
-First Repo
+# FirstRepo
+This was the first repo
+
